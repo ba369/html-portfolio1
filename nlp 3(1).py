@@ -5,7 +5,7 @@ from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 
 def morphology_demo(word):
-    print('Rakesh-211211101037');
+    
     print(f"Original Word: {word}")
 
     # Tokenize the word into individual tokens
